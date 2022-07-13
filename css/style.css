@@ -1,0 +1,67 @@
+body{
+    background: #000;
+    color: #FE8D00;
+}
+.title{
+    text-align: center
+}
+.cards{
+    justify-content: center;
+}
+.card{
+    width: 15%;
+    align-items: center;
+    margin-right: 3%;
+    text-align: center;
+    background: #FE8D00;
+    padding-top: 15px;
+    color: #fff;
+}
+.detail_moto_img{
+    width: 80%;
+}
+.header{
+    background: #FE8D00;
+    max-height: 500px;
+}
+.logo{
+    max-width: 180px;
+}
+footer{
+    background: #FE8D00;
+    max-height: 500px;
+    padding-top: 10px;
+}
+.foot_logo{
+    display: flex;
+    justify-content: center;
+}
+.soc_seti{
+    display: flex;
+    justify-content: center;
+}
+.soc_seti_links{
+    margin: 10px 10px 10px 0;
+}
+.collapse:not(.show) {
+    display: block;
+}
+.btn_arc{
+    margin-bottom: 3px;
+}
+.main_section{
+    height: 50vh;
+}
+.nav_links{
+    color: #FE8D00;
+    margin-bottom: 3px;
+    text-decoration: none;
+    margin-right: 30px;
+}
+.title_acr{
+    margin-right: 30px;
+    color: #FE8D00;
+}
+.dropdown-menu-dark .dropdown-item{
+    color: #FE8D00;
+}
